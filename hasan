@@ -1,0 +1,309 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/light-color-gradient-background-p66zupwivsc59vdi.jpg);
+    background-attachment: scroll;
+    
+ }
+ .navbar a{
+    color: rgb(0, 0, 0);
+    text-decoration: dotted;
+    font-size: xx-large;
+ }
+ .hn{
+     background-color: rgb(195, 196, 196);
+     display: flex;
+     gap: 5%;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     font-size: xx-large;
+     
+ }
+ header{
+     background-color: rgb(243, 208, 165);
+ }
+ #youtube{
+     background-color: rgb(122, 216, 216);
+     text-decoration: dotted;
+    font-size: x-large;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ .hassan{
+     display: flex;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #face{
+     align-items: center;
+     justify-content: center;
+     
+     background-color: rgb(162, 235, 238);
+     text-decoration: dotted;
+    font-size: x-large;
+    text-align: center;
+    width: 1095px;
+    border: 10px solid rgb(155, 235, 238);
+ }
+ #ista{
+     
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     font-size: x-large;
+ }
+ #wats{
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+ }
+ #tik{
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     
+ }body{
+    background-image: url(https://wallpapers.com/images/hd/light-color-gradient-background-p66zupwivsc59vdi.jpg);
+    background-attachment: scroll;
+    
+ }
+ .navbar a{
+    color: rgb(0, 0, 0);
+    text-decoration: dotted;
+    font-size: xx-large;
+ }
+ .hn{
+     background-color: rgb(195, 196, 196);
+     display: flex;
+     gap: 5%;
+     text-align: center;
+     justify-content: center;
+     align-items: center;
+     font-size: xx-large;
+     
+ }
+ header{
+     background-color: rgb(243, 208, 165);
+ }
+ #youtube{
+     background-color: rgb(122, 216, 216);
+     text-decoration: dotted;
+    font-size: x-large;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+ }
+ .hassan{
+     display: flex;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #face{
+     align-items: center;
+     justify-content: center;
+     
+     background-color: rgb(162, 235, 238);
+     text-decoration: dotted;
+    font-size: x-large;
+    text-align: center;
+    width: 1095px;
+    border: 10px solid rgb(155, 235, 238);
+ }
+ #ista{
+     
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     font-size: x-large;
+ }
+ #wats{
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+ }
+ #tik{
+     align-items: center;
+     justify-content: center;
+     text-align: center;
+     
+ }body{
+   background-image: url(https://wallpapers.com/images/hd/light-color-gradient-background-p66zupwivsc59vdi.jpg);
+   background-attachment: scroll;
+   
+}
+.navbar a{
+   color: rgb(0, 0, 0);
+   text-decoration: dotted;
+   font-size: xx-large;
+}
+.hn{
+    background-color: rgb(195, 196, 196);
+    display: flex;
+    gap: 5%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    
+}
+header{
+    background-color: rgb(243, 208, 165);
+}
+#youtube{
+    background-color: rgb(122, 216, 216);
+    text-decoration: dotted;
+   font-size: x-large;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   
+}
+.hassan{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#face{
+    align-items: center;
+    justify-content: center;
+    
+    background-color: rgb(162, 235, 238);
+    text-decoration: dotted;
+   font-size: x-large;
+   text-align: center;
+   width: 1095px;
+   border: 10px solid rgb(155, 235, 238);
+}
+#ista{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+#wats{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#tik{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}body{
+   background-image: url(https://wallpapers.com/images/hd/light-color-gradient-background-p66zupwivsc59vdi.jpg);
+   background-attachment: scroll;
+   
+}
+.navbar a{
+   color: rgb(0, 0, 0);
+   text-decoration: dotted;
+   font-size: xx-large;
+}
+.hn{
+    background-color: rgb(195, 196, 196);
+    display: flex;
+    gap: 5%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    
+}
+header{
+    background-color: rgb(243, 208, 165);
+}
+#youtube{
+    background-color: rgb(122, 216, 216);
+    text-decoration: dotted;
+   font-size: x-large;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   
+}
+.hassan{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#face{
+    align-items: center;
+    justify-content: center;
+    
+    background-color: rgb(162, 235, 238);
+    text-decoration: dotted;
+   font-size: x-large;
+   text-align: center;
+   width: 1095px;
+   border: 10px solid rgb(155, 235, 238);
+}
+#ista{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+#wats{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#tik{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
